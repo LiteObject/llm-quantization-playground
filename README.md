@@ -399,16 +399,6 @@ Options:
 
 ---
 
-## Contributing
-
-Contributions are welcome! Here are some ways to contribute:
-
-- Report bugs and issues
-- Suggest new features or quantization methods
-- Improve documentation
-- Add more evaluation metrics
-- Enhance visualizations
-
 ### Development Setup
 
 ```bash
