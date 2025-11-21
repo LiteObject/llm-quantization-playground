@@ -233,12 +233,6 @@ The `visualize_results.py` script generates:
 3. **Accuracy Comparison**: QA accuracy and perplexity scores
 4. **Speed vs Accuracy Tradeoff**: Scatter plot showing the pareto frontier
 
-Example visualizations:
-
-![Speed Comparison](results/speed_comparison.png)
-![Accuracy Comparison](results/accuracy_comparison.png)
-![Speed vs Accuracy Tradeoff](results/speed_accuracy_tradeoff.png)
-
 ---
 
 ## Understanding the Tradeoffs
