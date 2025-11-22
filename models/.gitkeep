@@ -1,0 +1,13 @@
+# Placeholder for downloaded models
+# Models will be cached here by HuggingFace transformers
+
+# You can also manually place GGUF files here:
+# - model.gguf
+# - model-q4_0.gguf
+# - model-q4_k_m.gguf
+
+# Example structure:
+# models/
+# ├── tinyllama-1.1b-chat.gguf
+# ├── llama-2-7b-chat-q4_0.gguf
+# └── mistral-7b-instruct-q4_k_m.gguf
